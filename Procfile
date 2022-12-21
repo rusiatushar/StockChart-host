@@ -1,0 +1,1 @@
+web: gunicorn StockChart.wsgi --log-file -
